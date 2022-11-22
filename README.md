@@ -41,6 +41,6 @@ https://www.youtube.com/watch?v=CKKNUnyKdVk
 - [ ] MAILING
 - [ ] POSTMAN
 - [ ] PASARELA DE PAGO DE MERCADO PAGO
-- [ ] Firebase
+- [ ] FIREBASE
 
 
