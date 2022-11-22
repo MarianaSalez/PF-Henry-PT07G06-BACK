@@ -1,7 +1,6 @@
 <p align="center">
- <img style="width:50%"  height="150" src="https://res.cloudinary.com/dvkvyi1dr/image/upload/v1668723108/cv/banner_name_rostr1.jpg" />
  
-  <img style="width:40%" height="150" src="https://res.cloudinary.com/duq1tcwjw/image/upload/c_scale,w_364/v1666480556/PF-JUIRA/juira_git-notBG_ijrvhd.gif" />
+  <img style="width:100%" height="150" src="https://res.cloudinary.com/duq1tcwjw/image/upload/c_scale,w_364/v1666480556/PF-JUIRA/juira_git-notBG_ijrvhd.gif" />
 </p> 
 
 
